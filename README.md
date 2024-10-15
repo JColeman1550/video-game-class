@@ -1,3 +1,6 @@
+## Fighting Games Class
+
+
 ## Description
 
 This project is a simple JavaScript class called fightingGames that models various fighting games. 
